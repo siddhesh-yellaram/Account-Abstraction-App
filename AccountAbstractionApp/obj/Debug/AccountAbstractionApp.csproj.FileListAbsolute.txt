@@ -1,0 +1,7 @@
+D:\test\.NET\AccountAbstractionApp\bin\Debug\AccountAbstractionApp.exe.config
+D:\test\.NET\AccountAbstractionApp\bin\Debug\AccountAbstractionApp.exe
+D:\test\.NET\AccountAbstractionApp\bin\Debug\AccountAbstractionApp.pdb
+D:\test\.NET\AccountAbstractionApp\obj\Debug\AccountAbstractionApp.csproj.AssemblyReference.cache
+D:\test\.NET\AccountAbstractionApp\obj\Debug\AccountAbstractionApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\AccountAbstractionApp\obj\Debug\AccountAbstractionApp.exe
+D:\test\.NET\AccountAbstractionApp\obj\Debug\AccountAbstractionApp.pdb
